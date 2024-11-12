@@ -2,3 +2,35 @@ body{
 background-color: darkmagenta;
 color: indigo;
 }
+section{
+ background-color: black;
+ padding-top: 77px;
+ padding-bottom: 77px;
+ display: flex;
+ justify-content: center;
+}
+
+.primera camada{
+ margin-right:5%;
+  
+}
+ .assistamaisvideos{
+   display: flex;
+   overflow-x: auto;
+   gap: 10px;    
+}
+
+header  {
+margin: 55px;
+background-color: aquamarine;
+text-size-adjust: 99px;
+justify-content: center;
+border: botom 3px rgb(rgb(196, 17, 166)) padding 29px; 
+}
+
+
+
+
+
+
+
