@@ -1,9 +1,9 @@
 body{
-background-color: darkmagenta;
-color: indigo;
+background-color: rgb(139, 5, 139);
+color: rgb(102, 4, 77);
 }
 section{
- background-color: black;
+ background-color: rgb(214, 88, 187);
  padding-top: 77px;
  padding-bottom: 77px;
  display: flex;
@@ -22,7 +22,7 @@ section{
 
 header  {
 margin: 55px;
-background-color: aquamarine;
+background-color: rgb(219, 134, 212);
 text-size-adjust: 99px;
 justify-content: center;
 border: botom 3px rgb(rgb(196, 17, 166)) padding 29px; 
